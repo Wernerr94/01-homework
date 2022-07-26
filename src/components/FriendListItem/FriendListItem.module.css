@@ -1,0 +1,29 @@
+.true {
+  font-weight: 700;
+  color: green;
+  padding-right: 20px;
+}
+.false {
+  font-weight: 700;
+  color: rgb(188, 73, 73);
+  padding-right: 20px;
+}
+
+.item {
+  border: 1px solid rgb(226, 226, 226);
+  border-radius: 10px;
+  display: inline-block;
+  min-width: 240px;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 2px 4px rgb(179, 179, 179);
+  
+}
+.avatar {
+  vertical-align: middle;
+}
+
+.name {
+  font-weight: 700;
+  padding-left: 10px;
+}

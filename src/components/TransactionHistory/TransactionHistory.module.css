@@ -1,0 +1,19 @@
+.title {
+  padding: 15px 50px;
+  color: #fff;
+  background-color: deepskyblue;
+  border: 1px solid #fff
+  
+}
+.column {
+  padding: 15px 50px;
+  border: 0.5px solid grey;
+  text-align: center;
+}
+.transactionHistory{
+    border-collapse: collapse;
+    margin: auto;
+}
+.row:nth-last-child(2n){
+    background-color: rgb(241, 240, 240);
+}
